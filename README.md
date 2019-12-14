@@ -1,4 +1,4 @@
-# OpticalCharacterRecognition
+# Optical Character Recognition
 <p>Optical Character Recognition (with MODI) - 2014 (C#)</p>
 <p>Optical Character Recognition is a tool for Windows PCs that allows you to scan a document and convert it to editable text.</p>
 <img src="OpticalCharacterRecognition.gif">
